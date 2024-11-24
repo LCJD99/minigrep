@@ -1,6 +1,6 @@
 # Minigrep
 
-A toy grep in Rust
+A toy grep on Rust
 
 ## Motivation
 
